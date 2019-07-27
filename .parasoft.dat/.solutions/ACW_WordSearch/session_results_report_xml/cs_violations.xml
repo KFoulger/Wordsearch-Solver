@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mergePnt id="csViolations">
+  <StdViols>
+    <StdViol sev="3" ln="75" cat="CODSTA-CPP" hash="-2101766082" urgent="true" tool="c++test" locType="sr" msg="Declare local variable 'loc' as const" lang="cpp" rule="CODSTA-CPP-53" config="1" auth="529353" locStartln="75" locStartPos="8" locEndLn="75" locEndPos="9" locFile="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp" />
+    <StdViol sev="3" ln="76" cat="CODSTA-CPP" hash="-2101766082" urgent="true" tool="c++test" locType="sr" msg="Declare local variable 'i' as const" lang="cpp" rule="CODSTA-CPP-53" config="1" auth="529353" locStartln="76" locStartPos="5" locEndLn="76" locEndPos="6" locFile="ACW_WordSearch/ACW_WordSearch/WordSearch.cpp" />
+  </StdViols>
+</mergePnt>
